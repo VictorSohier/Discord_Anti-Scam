@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord_Anti-scam.Api", "Discord_Anti-scam.Api\Discord_Anti-scam.Api.csproj", "{B5670036-3974-45B4-ADE0-75400973E0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord_Anti-scam.Bot", "Discord_Anti-scam.Bot\Discord_Anti-scam.Bot.csproj", "{68A3B459-18F2-43AE-B3D7-1D3E12D2295A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord_Anti-scam.Core", "Discord_Anti-scam.Core\Discord_Anti-scam.Core.csproj", "{80DE0E8A-09FA-49C2-81C2-7C80ACC0AA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord_Anti-scam.Infrastructure", "Discord_Anti-scam.Infrastructure\Discord_Anti-scam.Infrastructure.csproj", "{782D3B10-C3F7-442D-88B0-9524B7655AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord_Anti-scam.Web", "Discord_Anti-scam.Web\Discord_Anti-scam.Web.csproj", "{8C80146C-C5EF-4A07-9E48-8DCCF1E7F657}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5670036-3974-45B4-ADE0-75400973E0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5670036-3974-45B4-ADE0-75400973E0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5670036-3974-45B4-ADE0-75400973E0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5670036-3974-45B4-ADE0-75400973E0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68A3B459-18F2-43AE-B3D7-1D3E12D2295A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A3B459-18F2-43AE-B3D7-1D3E12D2295A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A3B459-18F2-43AE-B3D7-1D3E12D2295A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A3B459-18F2-43AE-B3D7-1D3E12D2295A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DE0E8A-09FA-49C2-81C2-7C80ACC0AA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DE0E8A-09FA-49C2-81C2-7C80ACC0AA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DE0E8A-09FA-49C2-81C2-7C80ACC0AA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DE0E8A-09FA-49C2-81C2-7C80ACC0AA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782D3B10-C3F7-442D-88B0-9524B7655AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782D3B10-C3F7-442D-88B0-9524B7655AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782D3B10-C3F7-442D-88B0-9524B7655AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782D3B10-C3F7-442D-88B0-9524B7655AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C80146C-C5EF-4A07-9E48-8DCCF1E7F657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C80146C-C5EF-4A07-9E48-8DCCF1E7F657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C80146C-C5EF-4A07-9E48-8DCCF1E7F657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C80146C-C5EF-4A07-9E48-8DCCF1E7F657}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

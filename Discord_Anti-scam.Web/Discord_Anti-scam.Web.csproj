@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Discord_Anti-scam.Core\Discord_Anti-scam.Core.csproj" />
+    <ProjectReference Include="..\Discord_Anti-scam.Infrastructure\Discord_Anti-scam.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Discord_Anti_scam.Web</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F28U43OBnu/PAX5v3LvMRsXHHRDozn4J+P9buJCx+NXaPkFgN79B8cvQCyMD2dqB8yHUeYg0Nbq1yym2XgZEbA==",
+  "success": true,
+  "projectFilePath": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Web/Discord_Anti-scam.Web.csproj",
+  "expectedPackageFiles": [
+    "/home/vsohier/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
