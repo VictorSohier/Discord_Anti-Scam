@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a2554f37-2d76-412c-9e24-72cb7b25e9f9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Discord_Anti-scam.Bot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

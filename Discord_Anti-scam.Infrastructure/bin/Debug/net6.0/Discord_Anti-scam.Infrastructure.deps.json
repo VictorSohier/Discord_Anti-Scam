@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Discord_Anti-scam.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Discord_Anti-scam.Core": "1.0.0"
+        },
+        "runtime": {
+          "Discord_Anti-scam.Infrastructure.dll": {}
+        }
+      },
+      "Discord_Anti-scam.Core/1.0.0": {
+        "runtime": {
+          "Discord_Anti-scam.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discord_Anti-scam.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Discord_Anti-scam.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

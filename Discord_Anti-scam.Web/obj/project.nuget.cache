@@ -1,9 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "F28U43OBnu/PAX5v3LvMRsXHHRDozn4J+P9buJCx+NXaPkFgN79B8cvQCyMD2dqB8yHUeYg0Nbq1yym2XgZEbA==",
+  "dgSpecHash": "5/ng8iqK0K0HpTLO0Ug1Mihk1hO4qEH1J+rwzdapmzqdM6fH9Guqq/f6vL7arxWso9sdv0LkGsl5RqWIfKWEuw==",
   "success": true,
   "projectFilePath": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Web/Discord_Anti-scam.Web.csproj",
   "expectedPackageFiles": [
+    "/home/vsohier/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.configuration.usersecrets/6.0.0/microsoft.extensions.configuration.usersecrets.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/home/vsohier/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512",
     "/home/vsohier/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
   ],
   "logs": []

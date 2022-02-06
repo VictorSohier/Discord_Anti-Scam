@@ -1,0 +1,12 @@
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/bin/Debug/net6.0/Discord_Anti-scam.Core.deps.json
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/bin/Debug/net6.0/Discord_Anti-scam.Core.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/bin/Debug/net6.0/ref/Discord_Anti-scam.Core.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/bin/Debug/net6.0/Discord_Anti-scam.Core.pdb
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/Discord_Anti-scam.Core.csproj.AssemblyReference.cache
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/Discord_Anti-scam.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/Discord_Anti-scam.Core.AssemblyInfoInputs.cache
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/Discord_Anti-scam.Core.AssemblyInfo.cs
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/Discord_Anti-scam.Core.csproj.CoreCompileInputs.cache
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/Discord_Anti-scam.Core.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/ref/Discord_Anti-scam.Core.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/Debug/net6.0/Discord_Anti-scam.Core.pdb

@@ -4,6 +4,64 @@
     "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/Discord_Anti-scam.Infrastructure.csproj": {}
   },
   "projects": {
+    "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj",
+        "projectName": "Discord_Anti-scam.Core",
+        "projectPath": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj",
+        "packagesPath": "/home/vsohier/.nuget/packages/",
+        "outputPath": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/vsohier/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.0, 6.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/Discord_Anti-scam.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +83,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj": {
+                "projectPath": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

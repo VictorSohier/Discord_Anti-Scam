@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Discord_Anti-scam.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Discord_Anti-scam.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Discord_Anti-scam.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Discord_Anti-scam.Core/1.0.0": {
+      "type": "project",
+      "path": "../Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj",
+      "msbuildProject": "../Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Discord_Anti-scam.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/vsohier/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj": {
+              "projectPath": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Core/Discord_Anti-scam.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

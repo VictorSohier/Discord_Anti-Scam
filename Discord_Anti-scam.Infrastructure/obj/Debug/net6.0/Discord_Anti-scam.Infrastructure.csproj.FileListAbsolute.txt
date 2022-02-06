@@ -1,0 +1,15 @@
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/bin/Debug/net6.0/Discord_Anti-scam.Infrastructure.deps.json
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/bin/Debug/net6.0/Discord_Anti-scam.Infrastructure.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/bin/Debug/net6.0/ref/Discord_Anti-scam.Infrastructure.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/bin/Debug/net6.0/Discord_Anti-scam.Infrastructure.pdb
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/bin/Debug/net6.0/Discord_Anti-scam.Core.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/bin/Debug/net6.0/Discord_Anti-scam.Core.pdb
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.csproj.AssemblyReference.cache
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.AssemblyInfoInputs.cache
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.AssemblyInfo.cs
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.csproj.CoreCompileInputs.cache
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.csproj.CopyComplete
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/ref/Discord_Anti-scam.Infrastructure.dll
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Infrastructure/obj/Debug/net6.0/Discord_Anti-scam.Infrastructure.pdb

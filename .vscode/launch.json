@@ -1,0 +1,69 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Bot",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build-bot",
+			"program": "${workspaceFolder}/Discord_Anti-scam.Bot/bin/Debug/net6.0/Discord_Anti-scam.Bot.dll",
+			"args": [],
+			"cwd": "${workspaceFolder}/Discord_Anti-scam.Bot",
+			"console": "internalConsole",
+			"stopAtEntry": false
+		},
+		{
+			"name": "Api",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build-api",
+			"program": "${workspaceFolder}/Discord_Anti-scam.Api/bin/Debug/net6.0/Discord_Anti-scam.Api.dll",
+			"args": [],
+			"cwd": "${workspaceFolder}/Discord_Anti-scam.Api",
+			"console": "internalConsole",
+			"stopAtEntry": false,
+			"env": {
+				"ASPNETCORE_URLS": "http://localhost:5000;https://localhost:5443"
+			}
+		},
+		{
+			"name": "Web",
+			"type": "coreclr",
+			"request": "launch",
+			"preLaunchTask": "build-web",
+			"program": "${workspaceFolder}/Discord_Anti-scam.Web/bin/Debug/net6.0/Discord_Anti-scam.Web.dll",
+			"args": [],
+			"cwd": "${workspaceFolder}/Discord_Anti-scam.Web",
+			"console": "internalConsole",
+			"stopAtEntry": false,
+			"env": {
+				"ASPNETCORE_URLS": "http://localhost:5001;https://localhost:5444"
+			}
+		},
+		{
+			"name": ".NET Core Attach",
+			"type": "coreclr",
+			"request": "attach"
+		}
+	],
+	"compounds": [
+		{
+			"name": "Full App",
+			"configurations": [
+				"Api",
+				"Bot",
+				"Web"
+			]
+		},
+		{
+			"name": "No Bot",
+			"configurations": [
+				"Api",
+				"Web"
+			]
+		}
+	]
+}
