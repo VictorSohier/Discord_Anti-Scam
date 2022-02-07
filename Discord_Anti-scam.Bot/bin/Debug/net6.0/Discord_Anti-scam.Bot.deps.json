@@ -20,6 +20,14 @@
           "Discord_Anti-scam.Bot.dll": {}
         }
       },
+      "Ardalis.SmartEnum/2.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Ardalis.SmartEnum.dll": {
+            "assemblyVersion": "1.0.8.0",
+            "fileVersion": "1.0.8.0"
+          }
+        }
+      },
       "Discord.Net/3.2.1": {
         "dependencies": {
           "Discord.Net.Commands": "3.2.1",
@@ -274,12 +282,16 @@
       },
       "System.ValueTuple/4.5.0": {},
       "Discord_Anti-scam.Core/1.0.0": {
+        "dependencies": {
+          "Ardalis.SmartEnum": "2.0.1"
+        },
         "runtime": {
           "Discord_Anti-scam.Core.dll": {}
         }
       },
       "Discord_Anti-scam.Infrastructure/1.0.0": {
         "dependencies": {
+          "Ardalis.SmartEnum": "2.0.1",
           "Discord_Anti-scam.Core": "1.0.0"
         },
         "runtime": {
@@ -293,6 +305,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Ardalis.SmartEnum/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tukxECzQuEXRGUzalYGF90CrD0hqW+308J3IaDKUoIavF3npUGVGn2ptumDSMIdZWInjPTlk3eJrrZuAePQbYA==",
+      "path": "ardalis.smartenum/2.0.1",
+      "hashPath": "ardalis.smartenum.2.0.1.nupkg.sha512"
     },
     "Discord.Net/3.2.1": {
       "type": "package",

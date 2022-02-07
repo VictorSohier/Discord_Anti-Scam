@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Ardalis.SmartEnum/2.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ardalis.SmartEnum.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ardalis.SmartEnum.dll": {}
+        }
+      },
       "Discord.Net/3.2.1": {
         "type": "package",
         "dependencies": {
@@ -351,6 +360,9 @@
       "Discord_Anti-scam.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ardalis.SmartEnum": "2.0.1"
+        },
         "compile": {
           "bin/placeholder/Discord_Anti-scam.Core.dll": {}
         },
@@ -362,6 +374,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Ardalis.SmartEnum": "2.0.1",
           "Discord_Anti-scam.Core": "1.0.0"
         },
         "compile": {
@@ -374,6 +387,20 @@
     }
   },
   "libraries": {
+    "Ardalis.SmartEnum/2.0.1": {
+      "sha512": "tukxECzQuEXRGUzalYGF90CrD0hqW+308J3IaDKUoIavF3npUGVGn2ptumDSMIdZWInjPTlk3eJrrZuAePQbYA==",
+      "type": "package",
+      "path": "ardalis.smartenum/2.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ardalis.smartenum.2.0.1.nupkg.sha512",
+        "ardalis.smartenum.nuspec",
+        "icon.png",
+        "lib/netstandard2.0/Ardalis.SmartEnum.dll",
+        "lib/netstandard2.0/Ardalis.SmartEnum.xml"
+      ]
+    },
     "Discord.Net/3.2.1": {
       "sha512": "LTnEcvQUlG3oF0h/H2d5cr99xbbY5v7coXWnhq9syNJSob4iJzpPrQQfYmu1fZT62Zg7Kzy7+DC/N96CkqIb8A==",
       "type": "package",

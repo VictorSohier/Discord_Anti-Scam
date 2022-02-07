@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "09Zoy1N7btditt/VET8QTDPimA+zrQJRDq7W3PBmM75au6EEfNsgHsW1KTZeoWF4fsPP0WzXzS/BxoALp39Jig==",
+  "dgSpecHash": "pd+6upMAkqqrrdrGLhIp41xWl9BA/uLJduUCDLdADnTps4D3Kyy0SqShtM0P2nrJ+pNxK9DhpWPrleLPgg1Tlw==",
   "success": true,
   "projectFilePath": "/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Bot/Discord_Anti-scam.Bot.csproj",
   "expectedPackageFiles": [
+    "/home/vsohier/.nuget/packages/ardalis.smartenum/2.0.1/ardalis.smartenum.2.0.1.nupkg.sha512",
     "/home/vsohier/.nuget/packages/discord.net/3.2.1/discord.net.3.2.1.nupkg.sha512",
     "/home/vsohier/.nuget/packages/discord.net.commands/3.2.1/discord.net.commands.3.2.1.nupkg.sha512",
     "/home/vsohier/.nuget/packages/discord.net.core/3.2.1/discord.net.core.3.2.1.nupkg.sha512",

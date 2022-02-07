@@ -38,3 +38,4 @@
 /home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Bot/obj/Debug/net6.0/ref/Discord_Anti-scam.Bot.dll
 /home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Bot/obj/Debug/net6.0/Discord_Anti-scam.Bot.pdb
 /home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Bot/obj/Debug/net6.0/Discord_Anti-scam.Bot.genruntimeconfig.cache
+/home/vsohier/repos/csworkspace/Discord_Anti-Scam/Discord_Anti-scam.Bot/bin/Debug/net6.0/Ardalis.SmartEnum.dll
